@@ -6,9 +6,9 @@ Bu repo, Ardupilot, MAVProxy, Gazebo ve DroneKit  gibi araçları kullanarak dro
 
 ## İçerikler
 
-1. [Ardupilot SITL Kurulumu](#ardupilot-sitl-kurulumu)
-2. [Gazebo Kurulumu](#gazebo-kurulumu)
-3. [DroneKit SITL](#dronekit-sitl)
+1. [Ardupilot SITL-MAVProxy-Git Kurulumu](#Ardupilot_SITL-MAVProxy-Git.md)
+2. [Gazebo Kurulumu](#Gazebo.md)
+3. [DroneKit SITL](#DroneKit_SITL.md)
 
 ### Ardupilot SITL Kurulumu
 
