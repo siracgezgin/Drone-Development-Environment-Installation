@@ -17,4 +17,4 @@ gnome-terminal -- sh -c "sim_vehicle.py -v ArduCopter -f gazebo-iris --console -
 # Gazebo çalışmadan önce MAVproxy oturumlarının başlamasını beklememiz gerekiyor. Aksi takdirde gazebo'da kullandığımız plugin'ler başlattığımız oturumları görmez.
 sleep 3s
 
-gazebo --verbose ../ardupilot_gazebo/worlds/iris_arducopter_runway_multi.world
+gazebo --verbose ../ardupilot_gazebo/worlds/iris_arducopter_runway.world
