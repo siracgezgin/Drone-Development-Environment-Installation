@@ -1,0 +1,16 @@
+### Tüm Gazebo Süreçlerini Durdurma (Otomatik):
+
+Aşağıdaki komutlar, çalışan tüm Gazebo ve MAVProxy süreçlerini durduracaktır:
+
+```sh
+pkill gzserver
+pkill gzclient
+pkill -f mavproxy.py
+```
+
+Bu komutları çalıştırdıktan sonra, `start_drones.sh` scriptinizi tekrar çalıştırabilirsiniz:
+
+```sh
+./start_drones_5.sh
+```
+
